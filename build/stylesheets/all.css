@@ -1,0 +1,38 @@
+/* line 6, all.css.scss */
+.index .reveal section img {
+  margin: 45px 20px 20px; }
+  /* line 9, all.css.scss */
+  .index .reveal section img.no-background {
+    background: none; }
+  /* line 13, all.css.scss */
+  .index .reveal section img.no-border {
+    border: none; }
+  /* line 17, all.css.scss */
+  .index .reveal section img.no-shadow {
+    -webkit-box-shadow: 0 0 0 rgba(0, 0, 0, 0);
+    -moz-box-shadow: 0 0 0 rgba(0, 0, 0, 0);
+    box-shadow: 0 0 0 rgba(0, 0, 0, 0); }
+/* line 25, all.css.scss */
+.index .reveal section.acid ul {
+  list-style: none; }
+  /* line 27, all.css.scss */
+  .index .reveal section.acid ul li {
+    margin-top: 25px; }
+    /* line 29, all.css.scss */
+    .index .reveal section.acid ul li:first-child {
+      margin-top: 0; }
+    /* line 32, all.css.scss */
+    .index .reveal section.acid ul li strong {
+      font-size: 60px; }
+/* line 40, all.css.scss */
+.index .reveal section.normal-forms ul {
+  list-style: none; }
+  /* line 42, all.css.scss */
+  .index .reveal section.normal-forms ul li {
+    margin-top: 25px; }
+    /* line 44, all.css.scss */
+    .index .reveal section.normal-forms ul li:first-child {
+      margin-top: 0; }
+    /* line 47, all.css.scss */
+    .index .reveal section.normal-forms ul li strong {
+      font-size: 50px; }
