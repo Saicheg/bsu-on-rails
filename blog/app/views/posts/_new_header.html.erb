@@ -1,0 +1,5 @@
+<% title = @post.title %>
+<% if @post.id.present? %>
+  <% title = "New #{title}" %>
+<% end %>
+<h1><%= title %></h1>
